@@ -11,7 +11,7 @@ Vizion is a lightweight, customizable AutoClicker designed specifically for **Mi
 1. Download .NET 7.0 ( or higher )
 2. Download the zip and extract it
 3. Build the source code with `dotnet build`
-4. Have fun !!
+4. Have fun !! ( to enable/disable it , press you scroll wheel button )
 
 ## Disclaimer
 - **Educational Use Only**: This tool is created solely for educational purposes and testing.
