@@ -1,6 +1,6 @@
 ﻿/* 
 Made by R E V A N on 04/07/2024 
-If you bought that you got scammed :)
+If you bought this you got scammed :)
 Have Fun
 */
 
